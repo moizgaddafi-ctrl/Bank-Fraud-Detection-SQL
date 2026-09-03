@@ -230,7 +230,7 @@ FROM count_customers
 order by   fraud_alert_count DESC;
 
 -- ============================================
--- 4. Window Functions
+-- 4. Window Functions Analysis
 -- ============================================
 
 -- Rank Transactions by Amount
@@ -283,7 +283,7 @@ over(order by transaction_id ASC ) as running_total
 FROM transactions;
 
 -- ============================================
--- 5. Subqueries
+-- 5. Subqueries Analysis
 -- ============================================
 
 -- Above Average Transaction
@@ -342,7 +342,7 @@ WHERE t2.account_id = t1.account_id
 ORDER BY t1.account_id, t1.amount DESC;
 
 -- ============================================
--- 6. Advanced Fraud Detection 
+-- 6. Advanced Fraud Detection
 -- ============================================
 
 -- Top 3 Highest-Risk Transactions
