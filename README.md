@@ -1,6 +1,6 @@
 # 🏦 Bank Fraud Detection | SQL Project
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing banking transactions and fraud-related activity using SQL.
 
@@ -10,7 +10,7 @@ The project was built as a beginner-to-intermediate SQL portfolio project and in
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 The main objectives of this project are to:
 
@@ -26,7 +26,7 @@ The main objectives of this project are to:
 
 ---
 
-# 🔗 Database Relationship Diagram
+#  Database Relationship Diagram
 
 The project uses four related tables:
 
@@ -47,20 +47,20 @@ This structure allows the project to analyze fraud activity from the customer le
 
 ---
 
-# 📊 Dataset Information
+#  Dataset Information
 
 The dataset used in this project contains:
 
-* 👥 **30 Customers**
-* 🏦 **30 Bank Accounts**
-* 💳 **60 Transactions**
-* 🚨 **14 Fraud Alerts**
+*  **30 Customers**
+*  **30 Bank Accounts**
+*  **60 Transactions**
+*  **14 Fraud Alerts**
 
 The dataset includes different transaction types, payment methods, locations, transaction statuses, and fraud alert categories to support realistic SQL analysis.
 
 ---
 
-# 🛠️ SQL Skills Demonstrated
+#  SQL Skills Demonstrated
 
 This project covers a range of SQL concepts:
 
@@ -95,11 +95,11 @@ This project covers a range of SQL concepts:
 
 ---
 
-# 🔍 SQL Analysis Sections
+#  SQL Analysis Sections
 
 The project contains **35 SQL analysis tasks**, organized into 6 sections.
 
-## 1️⃣ Basic Transaction Analysis
+## 1️ Basic Transaction Analysis
 
 This section focuses on understanding the transaction dataset.
 
@@ -118,7 +118,7 @@ The analysis includes:
 
 ---
 
-## 2️⃣ Customer & Fraud Analysis Using JOINs
+## 2️ Customer & Fraud Analysis Using JOINs
 
 This section uses multiple table relationships to analyze customers and fraud activity.
 
@@ -132,7 +132,7 @@ The analysis includes:
 
 ---
 
-## 3️⃣ CTE Analysis
+## 3️ CTE Analysis
 
 Common Table Expressions were used to simplify multi-step analysis.
 
@@ -146,7 +146,7 @@ The tasks include:
 
 ---
 
-## 4️⃣ Window Function Analysis
+## 4️ Window Function Analysis
 
 This section focuses on analytical SQL queries using window functions.
 
@@ -160,7 +160,7 @@ The analysis includes:
 
 ---
 
-## 5️⃣ Subquery Analysis
+## 5️ Subquery Analysis
 
 This section uses subqueries to compare and filter transaction and customer data.
 
@@ -174,7 +174,7 @@ The tasks include:
 
 ---
 
-## 6️⃣ Advanced Fraud Detection Challenges
+## 6️ Advanced Fraud Detection Challenges
 
 The final section combines multiple SQL concepts to solve more complex business problems.
 
@@ -188,7 +188,7 @@ The challenges include:
 
 ---
 
-# 🚨 Key Analysis Areas
+#  Key Analysis Areas
 
 Some of the main business questions explored in this project include:
 
@@ -203,7 +203,7 @@ Some of the main business questions explored in this project include:
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```text
 Bank-Fraud-Detection-SQL/
@@ -225,7 +225,7 @@ Bank-Fraud-Detection-SQL/
 
 ---
 
-# 💡 Key Learning Outcomes
+#  Key Learning Outcomes
 
 Through this project, I improved my understanding of how SQL can be used to solve business-focused analytical problems.
 
@@ -243,7 +243,7 @@ Some of the key areas I practiced were:
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 Possible future improvements for this project include:
 
@@ -255,7 +255,7 @@ Possible future improvements for this project include:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Moiz Gaddafi**
 
