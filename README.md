@@ -1,4 +1,4 @@
-# 🏦 Bank Fraud Detection | SQL Project
+#  Bank Fraud Detection | SQL Project
 
 ##  Project Overview
 
@@ -265,4 +265,4 @@ This project was created to practice and demonstrate SQL skills through a bankin
 
 ---
 
-⭐ If you found this project interesting, feel free to explore the SQL files in this repository.
+ If you found this project interesting, feel free to explore the SQL files in this repository.
