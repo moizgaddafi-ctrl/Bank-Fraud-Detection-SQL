@@ -34,8 +34,6 @@ location VARCHAR(50),
 FOREIGN KEY (account_id) REFERENCES accounts(account_id)
 );
 
-ALTER TABLE transactions DROP COLUMN transaction_date;
-
 CREATE TABLE fraud_alerts (
 alert_id INT PRIMARY KEY,
 transaction_id INT,
