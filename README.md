@@ -37,7 +37,7 @@ The project uses four related tables:
 
 The relationships between these tables are shown below:
 
-![Database ERD]()
+![Database ERD](images/database_erd.png)
 
 The relationship flow is:
 
